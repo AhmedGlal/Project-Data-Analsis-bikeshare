@@ -2,7 +2,7 @@
 In this project, you will perform an exploratory analysis on data provided by Motivate, a bike-share system provider for many major cities in the United States. You will compare the system usage between three large cities: New York City, Chicago, and Washington, DC. You will also see if there are any differences within each system for those users that are registered, regular users and those users that are short-term, casual users.
 
 # Important : Must Download Cities DB 
-* DB[https://www.kaggle.com/deepak525/us-bike-share-analysis].
+* [DB](https://www.kaggle.com/deepak525/us-bike-share-analysis).
 * https://vickysuworld.blogspot.com/2017/10/2016-us-bike-share-activity-snapshot.html
 * https://towardsdatascience.com/exploring-toronto-bike-share-ridership-using-python-3dc87d35cb62
 * https://www.kaggle.com/deepak525/us-bike-share-analysis
